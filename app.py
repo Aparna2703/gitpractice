@@ -5,3 +5,9 @@ def add(a,b):
 
 def mul(a,b):
     return a*b
+
+
+def diviion(a,b):
+    return a/b
+
+
